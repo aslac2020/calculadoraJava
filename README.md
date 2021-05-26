@@ -15,7 +15,7 @@ Consiste em uma calculadora, na qual você pode calcular resto da divisão por 2
 
 ## Front end e Back end
 -JAVA
--SWING
+<br>-Jframe - SWING
 
 # Autor
 
